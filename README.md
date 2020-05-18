@@ -18,7 +18,7 @@
 - Để đơn giản, các bạn nên clone source về thư mục `htdocs`
 - Chạy câu lệnh
 ```
-git clone f-shop.png
+git clone https://github.com/Gin1097/luanvan.git
 ```
 
 ## Step 2: install các thư viện (package) cần thiết thông qua `composer`
